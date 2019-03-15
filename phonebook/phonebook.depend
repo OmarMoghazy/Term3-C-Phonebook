@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1545851136 source:c:\users\dell\desktop\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1545851136 source:c:\users\dell\desktop\programs\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
